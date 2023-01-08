@@ -6,9 +6,9 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" /> I have experience with Programming Languages as:
 * C#
 * Python
-* JavaScript
-* HTML
-* CSS
+* JavaScript and TypeScript
+* HTML and CSS
+
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" /> Tech and Tools I am familiar with:
 
