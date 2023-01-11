@@ -16,17 +16,16 @@ C# and .Net I have learned in programming bootcamp. I know how to create `REST A
 
 Databases I have used in my projects: `PostgreSQL`, `MySQL`,  `SQLLite`
 
-Python is my first programming language. I am a big fan of Python as it is very flexible, 
-dynamic and easy to learn and understand. It supports perfectly `Object-Oriented` and `functional`programming. 
-I have created few web applications using `Flask` web framework. It is perfect for small web applications. Flask is surprisingly easy to use and fast to learn.
-I have looked into another Python web framework - `Django`. It is perfect for bigger and more complex web applications. I have used `Tkinter` to create simple Desktop apps. `Beautiful Soap` lib for web scraping. 
+`Python`is my first programming language. I am a big fan of Python as it is very flexible, 
+dynamic and easy to learn. It supports perfectly `Object-Oriented` and `functional`programming. 
+I have created few web applications using `Flask` web framework. It is perfect for small web applications. Flask is easy to use and fast to learn.
+I have looked into `Django` web framework. It is more suitable for bigger and more complex web applications. In one of my first progects I have used `Tkinter` to create simple Desktop applications. Additionaly, I am familiar with `Beautiful Soap` library for web scraping in Python. 
+ 
+I have used lately Javascript and Typescript with Front End web Framework `React`.
 
-I have used JavaScript a lot in DOM manipulation. It is simple and easy to add some JavaScript scripts just to add extra functionality and dynamic in my applications. 
-I am familiar with Javascript Front End web Framework `React`.
+I have used  `Heroku`, `Netlify` and `Azure Cloud` to deploy my web applications.
 
-Additionally, I would like to mention that I have experience in web app deployment using  `Heroku`, `Netlify` and `Azure Cloud`.
-
-I have used `Bootstrap` and `SASS` for styling. However I prefer styling all from scratch with plain CSS. I do feel that in this way I have more control and flexibility for changes.
+I am familiar with `Bootstrap` and `SASS` for styling. However I prefer styling all from scratch with plain CSS. I do feel that in this way I have more control and flexibility for changes.
 
 I have worked with different IDEs like `VS Code` `Visual Studio` `Atom` `Rider` `PyCharm` `Sublime`. My favourite at the moment is `VS Code` as I highly appreciate its simplicity, lightweight and efficiency. 
 
