@@ -14,7 +14,7 @@
 
 C# and .Net I have learned in programming bootcamp. I know how to create `REST API's` and by using `Asp.Net MVC` and `Razor Pages` frameworks, create Full Stack Web Applications. 
 
-Databases I have used in my projects: Relational Type: `PostgreSQL`, `MS SQL`,  `Azure SQL Database` and No-SQL Type: `Azure NoSQL`
+Databases I have used in my projects: Relational Type: `PostgreSQL`, `MS SQL`,  `Azure SQL Database` and Object Storage Type: `Azure Blob Storage`
 
 `Python`is my first programming language. I am a big fan of Python as it is very flexible, 
 dynamic and easy to learn. It supports perfectly `Object-Oriented` and `functional`programming. 
