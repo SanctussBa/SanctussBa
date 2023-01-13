@@ -14,14 +14,14 @@
 
 C# and .Net I have learned in programming bootcamp. I know how to create `REST API's` and by using `Asp.Net MVC` and `Razor Pages` frameworks, create Full Stack Web Applications. 
 
-Databases I have used in my projects: `PostgreSQL`, `MySQL`,  `SQLLite`
+Databases I have used in my projects: Relational Type: `PostgreSQL`, `MS SQL`,  `Azure SQL Database` and No-SQL Type: `Azure NoSQL`
 
 `Python`is my first programming language. I am a big fan of Python as it is very flexible, 
 dynamic and easy to learn. It supports perfectly `Object-Oriented` and `functional`programming. 
 I have created few web applications using `Flask` web framework. It is perfect for small web applications. Flask is easy to use and fast to learn.
 I have looked into `Django` web framework. It is more suitable for bigger and more complex web applications. In one of my first progects I have used `Tkinter` to create simple Desktop applications. Additionaly, I am familiar with `Beautiful Soap` library for web scraping in Python. 
  
-I have used lately Javascript and Typescript with Front End web Framework `React`.
+My latest projects where created with Javascript and TypeScript with Front End web Framework `React`.
 
 I have used  `Heroku`, `Netlify` and `Azure Cloud` to deploy my web applications.
 
