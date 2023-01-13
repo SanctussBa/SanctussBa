@@ -23,7 +23,7 @@ I have looked into `Django` web framework. It is more suitable for bigger and mo
  
 My latest projects where created with Javascript and TypeScript with Front End web Framework `React`.
 
-I have used  `Heroku`, `Netlify` and `Azure Cloud` to deploy my web applications.
+I have used  `Heroku`, `Netlify` and `Microsoft Azure` to deploy my web applications.
 
 I am familiar with `Bootstrap` and `SASS` for styling. However I prefer styling all from scratch with plain CSS. I do feel that in this way I have more control and flexibility for changes.
 
