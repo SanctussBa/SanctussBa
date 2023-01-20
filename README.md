@@ -9,7 +9,6 @@
 * JavaScript and TypeScript
 * HTML and CSS
 
-
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" /> Tech and Tools I am familiar with:
 
 C# and .Net I have learned in programming bootcamp. I know how to create `REST API's` and by using `Asp.Net MVC` and `Razor Pages` frameworks, create Full Stack Web Applications. 
@@ -34,5 +33,5 @@ I am very good at `CTRL+C & CTRL+V` and `Google`ing. <img src="https://raw.githu
 ======
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Pinched%20Fingers.png" alt="Pinched Fingers" width="25" height="25" /> Check out my [portfolio web site](https://sabapolio.netlify.app/)
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="25" height="25" /> Reach me out --> |  baltmane.santa@gmail.com
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="25" height="25" /> Reach me out --> |  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/santa-baltmane)
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" alt="Victory Hand" width="25" height="25" /> STAY SAFE
