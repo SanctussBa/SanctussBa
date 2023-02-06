@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+Full+Stack+Developer..&hearts;++;Self-taught+Programmer,;Economics+and+Business+Graduate,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Index%20Pointing%20Up.png" alt="Index Pointing Up" width="25" height="25" /> .Net Full-Stack Developer 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Index%20Pointing%20Up.png" alt="Index Pointing Up" width="25" height="25" /> .Net Full-Stack Developer, React Developer
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" />  Currently learning Salesforce and Apex
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" /> I have experience with Programming Languages such as:
 * C#
@@ -17,7 +17,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" height="25" /> Tech and Tools I am familiar with:
 
-C# and .Net I have learned in programming bootcamp. I know how to create `REST API's` and by using `Asp.Net MVC` and `Razor Pages` frameworks, create Full Stack Web Applications. 
+C# and .Net I have learned in programming bootcamp. Experience with `REST API's`. Familiar with  `Asp.Net MVC` and `Razor Pages`, capability to create Full Stack Web Applications. 
 
 Databases I have used in my projects: Relational Type: `PostgreSQL`, `MS SQL`,  `Azure SQL Database` and Object Storage Type: `Azure Blob Storage`
 
